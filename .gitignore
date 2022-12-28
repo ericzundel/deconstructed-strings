@@ -130,4 +130,9 @@ dmypy.json
 
 # Windows garbage
 System\ Volume\ Information/
+.Trashes
+.fseventsd/
+.metadata_never_index
 
+# CircuitPython files
+boot_out.txt
